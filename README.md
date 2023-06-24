@@ -39,8 +39,18 @@ https://www.scaler.com/topics/nodejs/client-server-architecture/
 Scalability :::
 
 https://scholar.harvard.edu/linh/system-design
+
+
 https://bytebytego.com/courses/system-design-interview/scale-from-zero-to-millions-of-users
+
+
 https://www.codingninjas.com/codestudio/library/system-design-horizontal-and-vertical-scaling
+
+
+
+Load-Balancer
+
+https://www.enjoyalgorithms.com/blog/load-balancers-in-system-design
 
 
 
