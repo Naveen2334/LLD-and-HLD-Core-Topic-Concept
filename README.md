@@ -3,7 +3,7 @@
 Basics Technical Words::::::::::
 
 
-Availability :: It is a simple measure of the percentage of time that a system, service, or machine remains operational under normal conditions.
+Availability:: It is a simple measure of the percentage of time that a system, service, or machine remains operational under normal conditions.
 https://www.karanpratapsingh.com/courses/system-design/availability
 
 
@@ -51,6 +51,33 @@ https://www.codingninjas.com/codestudio/library/system-design-horizontal-and-ver
 Load-Balancer
 
 https://www.enjoyalgorithms.com/blog/load-balancers-in-system-design
+
+
+OS+DBMS+C.N
+Sharding 
+Cache
+P2P Network
+Proxies
+Replica
+Redundancy
+Indexes
+Data-Partitioning
+MessageQUEUE
+Polling
+Web Server
+Read Write
+CAD
+Consistent Hashing
+CDN
+Performance
+Partition To Tolerance
+CAP Theorem
+DNS
+CDN
+MicroServices
+DB------SQL+NoSQL
+
+
 
 
 
