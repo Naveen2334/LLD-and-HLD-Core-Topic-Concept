@@ -36,5 +36,12 @@ https://igotanoffer.com/blogs/tech/network-protocols-proxies-system-design-inter
 Client Server Architecture::
 https://www.scaler.com/topics/nodejs/client-server-architecture/
 
+Scalability :::
+
+https://scholar.harvard.edu/linh/system-design
+https://bytebytego.com/courses/system-design-interview/scale-from-zero-to-millions-of-users
+https://www.codingninjas.com/codestudio/library/system-design-horizontal-and-vertical-scaling
+
+
 
 
