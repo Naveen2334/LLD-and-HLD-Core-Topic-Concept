@@ -54,7 +54,11 @@ https://www.enjoyalgorithms.com/blog/load-balancers-in-system-design
 
 
 OS+DBMS+C.N
+
 Sharding 
+https://www.techtarget.com/searchoracle/definition/sharding#:~:text=Sharding%20is%20a%20type%20of,small%20part%20of%20a%20whole.%22
+
+
 Cache
 P2P Network
 Proxies
