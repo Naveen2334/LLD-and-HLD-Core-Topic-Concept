@@ -81,9 +81,12 @@ Performance
 Partition To Tolerance
 CAP Theorem
 DNS
-CDN
 MicroServices
 DB------SQL+NoSQL
+
+
+===============================================================
+https://drive.google.com/drive/u/1/folders/1lTDXvsKwhmCERfUrXEQZS2554Birgquz
 
 
 
