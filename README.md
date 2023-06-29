@@ -60,6 +60,10 @@ https://www.techtarget.com/searchoracle/definition/sharding#:~:text=Sharding%20i
 
 
 Cache
+
+https://igotanoffer.com/blogs/tech/caching-system-design-interview
+
+
 P2P Network
 Proxies
 Replica
