@@ -65,10 +65,25 @@ https://igotanoffer.com/blogs/tech/caching-system-design-interview
 
 
 P2P Network
+
+https://www.geeksforgeeks.org/what-is-p2ppeer-to-peer-process/
+
 Proxies
+
+https://www.linkedin.com/pulse/proxy-server-system-design-primers-md-imtiyaz-hossain/
+
 Replica
+
+https://www.enjoyalgorithms.com/blog/introduction-to-database-replication-system-design
+
 Redundancy
+
+https://theawesomenayak.com/system-design-101-redundancy
+
 Indexes
+
+https://www.enjoyalgorithms.com/blog/database-indexing-in-system-design
+
 Data-Partitioning
 MessageQUEUE
 Polling
