@@ -85,6 +85,9 @@ Indexes
 https://www.enjoyalgorithms.com/blog/database-indexing-in-system-design
 
 Data-Partitioning
+
+https://www.enjoyalgorithms.com/blog/data-partitioning-system-design-concept
+
 MessageQUEUE
 Polling
 Web Server
