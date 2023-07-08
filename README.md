@@ -89,6 +89,7 @@ Data-Partitioning
 https://www.enjoyalgorithms.com/blog/data-partitioning-system-design-concept
 
 MessageQUEUE
+
 https://aws.amazon.com/message-queue/
 
 Polling
