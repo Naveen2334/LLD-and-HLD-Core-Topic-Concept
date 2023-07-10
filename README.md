@@ -100,11 +100,23 @@ Consistent Hashing
 CDN
 Performance
 Partition To Tolerance
-CAP Theorem
+CAP Theorem vs  PACELC Theorem
 DNS
-MicroServices
+MicroServices vs Monolithic
 DB------SQL+NoSQL
+Bloom Filters
+Logging And Monitoring
+Quorum, Leader and Follower, Heartbeat, Checksum
+Security And HTTPS
+API Design
+Rate Limiting
 
+
++++++++++++++++++++++++=============Design principle++++++++++++++++++++++++++++++==========
+DRY principles
+KISS principles
+SOLID principles
+CUPID principles
 
 ===============================================================
 https://drive.google.com/drive/u/1/folders/1lTDXvsKwhmCERfUrXEQZS2554Birgquz
