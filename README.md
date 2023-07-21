@@ -93,6 +93,9 @@ MessageQUEUE
 https://aws.amazon.com/message-queue/
 
 Polling
+
+https://www.linkedin.com/pulse/messaging-distributed-systems-pollingstreaming-system-design-us/?trk=pulse-article_more-articles_related-content-card
+
 Web Server
 Read Write
 CAD
