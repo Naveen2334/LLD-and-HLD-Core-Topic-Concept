@@ -97,13 +97,24 @@ Polling
 https://www.linkedin.com/pulse/messaging-distributed-systems-pollingstreaming-system-design-us/?trk=pulse-article_more-articles_related-content-card
 
 Web Server
+
+https://www.techtarget.com/whatis/definition/Web-server
+
 Read Write
+https://medium.com/@avik.das/scalability-concepts-read-after-write-consistency-3ff70b71e1d1
+
 CAD
 Consistent Hashing
 CDN
 Performance
 Partition To Tolerance
+
+
 CAP Theorem vs  PACELC Theorem
+
+https://www.geeksforgeeks.org/pacelc-theorem/
+
+
 DNS
 MicroServices vs Monolithic
 DB------SQL+NoSQL
